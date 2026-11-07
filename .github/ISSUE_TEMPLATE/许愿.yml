@@ -1,0 +1,19 @@
+name: 🎁 许愿
+description: 希望这个仓库变成什么样?
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: wish
+    attributes:
+      label: 你的愿望
+      description: 想在这里看到什么好玩的内容或功能?
+      placeholder: 例如:加一面"讲座回忆墙",大家贴一句话感受
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么想要它?
+      description: 一两句话就好
+    validations:
+      required: false
