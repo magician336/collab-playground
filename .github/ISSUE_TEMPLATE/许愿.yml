@@ -6,7 +6,7 @@ body:
     id: wish
     attributes:
       label: 你的愿望
-      description: 想在这里看到什么好玩的内容或功能?
+      description: 想在这里看到什么内容或功能?
       placeholder: 例如:加一面"讲座回忆墙",大家贴一句话感受
     validations:
       required: true

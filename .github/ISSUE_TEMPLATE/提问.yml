@@ -1,12 +1,12 @@
 name: 🙋 提问
-description: 关于 Git / GitHub / 协作的任何问题
+description: 关于 Git、GitHub、多人协作、AI agent 与 skills 技能集的任何问题
 labels: ["question"]
 body:
   - type: textarea
     id: question
     attributes:
       label: 你的问题
-      description: 别怕基础,问就完了
+      description: 无论多基础都欢迎,这是提问专用的练习场
       placeholder: 例如:fork 和 clone 有什么区别?
     validations:
       required: true
