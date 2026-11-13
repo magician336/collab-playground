@@ -38,7 +38,7 @@
 
 ## 📜 这个仓库怎么协作?
 
-见 [CONTRIBUTING.md](CONTRIBUTING.md)——只有三行,但很认真。
+见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## License
 
